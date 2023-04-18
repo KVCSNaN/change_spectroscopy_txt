@@ -1,4 +1,4 @@
-# change spectroscopy output txt file
+# Change spectroscopy output txt file
 
 ## Purpose
 
