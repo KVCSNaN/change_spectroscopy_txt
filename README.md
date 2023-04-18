@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The script changes all the "," txt files to "." and rewrite the original file in the current working directory
+The script changes all "," in the txt files to "." and rewrite the original file in the current working directory
 
 ## Usage
 
